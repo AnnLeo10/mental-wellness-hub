@@ -5,6 +5,15 @@
   font-family: 'Segoe UI', sans-serif;
 }
 
+.about {
+  flex: 1;
+  min-width: 300px;
+  padding: 20px;
+  background-color: rgba(168, 213, 186, 0.15);
+  border-radius: 10px;
+  color: #ffffff; /* ✅ Add this */
+}
+
 body {
   color: #f0f0f0;
   line-height: 1.6;
